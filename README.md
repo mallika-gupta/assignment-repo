@@ -1,2 +1,2 @@
 # assignment-repo
-Blockchain Lab Assignments 
+Blockchain Lab Assignment 1 
