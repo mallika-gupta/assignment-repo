@@ -10,7 +10,7 @@ contract MessageStorage {
         message = _message;
     }
 
-    // Function to get the message (optional since message is public)
+    // Function to get the message 
     function getMessage() public view returns (string memory) {
         return message;
     }
