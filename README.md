@@ -1,8 +1,5 @@
 # assignment-repo
 Blockchain Lab Assignment 
-# Solidity Assignment Solutions
-
-This repository contains solutions for the Solidity smart contract assignments. Each smart contract file is named according to the question number and includes comments explaining its functionality.
 
 ## Contracts Overview
 
